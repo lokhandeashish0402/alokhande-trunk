@@ -1,5 +1,5 @@
 <?php
-namespace HelloWorld;
+namespace alokhande_trunk;
 class SayHello {
 
 	public static function world() {
