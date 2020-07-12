@@ -1,4 +1,8 @@
 <?php
-  echo 'Hello World!';
-  echo 'I am herem';
-?>
+namespace HelloWorld;
+class SayHello {
+
+	public static function world() {
+		return 'Hello World, Composer!';
+	}
+}
