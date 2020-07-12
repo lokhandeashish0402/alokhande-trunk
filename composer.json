@@ -9,6 +9,11 @@
       "email": "lokhande.ashish@gmail.com"
     }
   ],
+  "autoload": {
+    "psr-4": {
+      "SayHelloAshish\\": "src/"
+    }
+  },
   "require": {
 
   }
