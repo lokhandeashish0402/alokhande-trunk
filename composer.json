@@ -1,0 +1,12 @@
+{
+  "name": "vendor_name/trunk",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "alokhande",
+      "email": "lokhande.ashish0402@gmail.com"
+    }
+  ]
+}
