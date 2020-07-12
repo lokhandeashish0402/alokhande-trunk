@@ -1,12 +1,12 @@
 {
-  "name": "vendor_name/alokhande-trunk",
+  "name": "vendor_name/trunk",
   "description": "description",
   "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
     {
       "name": "alokhande",
-      "email": "email@example.com"
+      "email": "lokhande.ashish@gmail.com"
     }
   ],
   "require": {
